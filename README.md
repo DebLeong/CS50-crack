@@ -39,3 +39,14 @@ Assume that each password has been hashed with C’s DES-based (not MD5-based) `
 Assume that each password is no longer than (gasp) four characters
 
 Assume that each password is composed entirely of alphabetical characters (uppercase and/or lowercase).
+
+## Usage
+Your program should behave per the examples below. Assumed that the underlined text is what some user has typed.
+
+```$ ./crack```
+
+Usage: ./crack hash
+
+```$ ./crack 50fkUxYHbnXGw```
+
+rofl
